@@ -1,6 +1,6 @@
-#Today – AI-Powered Fitness & Nutrition Tracker
+Today – AI-Powered Fitness & Nutrition Tracker
 
-##License: MIT
+License: MIT
 
 📖 About
 
