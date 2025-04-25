@@ -28,7 +28,7 @@ We welcome contributions! Feel free to open an issue or submit a pull request to
 #📲 Get Started
 
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/today.git
+git clone https://github.com/nextSLN/today.git
 2️⃣ Open in Xcode
 Navigate to the project folder and open the .xcodeproj or .xcworkspace file.
 3️⃣ Build & Run
